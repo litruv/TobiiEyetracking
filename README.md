@@ -5,7 +5,7 @@
 ### Prerequisites:
 Tobii Unreal Engine SDK requires the following setup on your computer:
 
-* Unreal Engine 4.21 or later
+* Unreal Engine 4.27 or later
 * Windows 10, 8.1, or 7
 * Target build platform Windows32/64
 * Tobii Eye Tracking Core Software (either downloaded install bundle for peripheral eye tracker, or pre-installed on integrated systems)
