@@ -1,4 +1,4 @@
-# Thank You for downloading the Tobii Unreal Engine SDK!
+# Tobii Eye Tracking for Unreal Engine 4.27
 
 ## To get started:
 
