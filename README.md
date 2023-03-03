@@ -1,5 +1,10 @@
 # Tobii Eye Tracking for Unreal Engine 4.27
 
+*Disclaimer: I am not the original programmer for this, finding the SDK is an absolute pain, I don't get responses from Tobii when I send requests. found a 4.23 version and updated for 4.27, *
+
+https://github.com/litruv/TobiiEyetracking/blob/4.27/Source/TobiiCore/Public/TobiiTypes.h#L215
+for the one change I did make.
+
 ## To get started:
 
 ### Prerequisites:
